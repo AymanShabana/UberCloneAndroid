@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Uber</string>
+    <string name="title_activity_rider">Map</string>
+    <string name="title_activity_view_rider_location">Map</string>
+</resources>
